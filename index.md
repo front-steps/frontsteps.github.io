@@ -5,7 +5,9 @@ feature_image: ""
 
 ---
 
-Nashville based acoustic ensemble blending Jazz, Appalachian, and Classical influences. Sounds like: Beautiful melodies, tight grooves, & heartfelt improvisations.
+{% include figure.html image="/images/FullCoverSmall.jpg" %}
+
+Nashville based acoustic ensemble blending jazz, Appalachian, and classical influences. Sounds like: Beautiful melodies, tight grooves, & heartfelt improvisations.
 
 
 ## Lineup
