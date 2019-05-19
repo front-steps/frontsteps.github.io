@@ -22,7 +22,6 @@ facebook_username: TheFrontStepsEnsemble
 
 # Build settings
 markdown: kramdown
-theme: alembic-jekyll-theme
 remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-sitemap
